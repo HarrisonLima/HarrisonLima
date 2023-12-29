@@ -1,16 +1,56 @@
-### Hi there 👋
+# 📈 Hey visitors, welcome to my GitHub profile!
 
-<!--
-**HarrisonLima/HarrisonLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a Software Developer in Uauh Cartões.
+- 🧠 I'm currently studying: Node, React, Typescript on Alura. <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="40" height="30"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+## 🚀 Technologies and Tools
+
+<section align="left" style="border: 15px solid #545454; border-radius: 8px; display: flex; justify-content:center; width: 600px">
+    <div style="padding: 20px; justify-content: center;">
+        <div style="display: flex; margin: 10px; justify-content: space-between;">  
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="Javascript" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="Typescript" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="50" height="50" title="Vite" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"  title="Node.js" style="padding: 20px 30px;"/>
+        </div>
+        <div style="display: flex; margin: 10px; justify-content: space-between;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Express.js" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" title="Visual Studio Code" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma" style="padding: 20px 30px;"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" width="50" height="50" title="NPM" style="padding: 20px 30px;"/>
+        </div>
+        <div style="display: flex; margin: 10px; justify-content: space-between;">
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
+            <img src="https://camo.githubusercontent.com/91667172abbc3a5e37ef6083a42ae5c114668c5614c0f53472499a1e4b842d26/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f3531322f657870726573732d6a732e706e67" title="Express.js" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
+        </div>
+    </div>
+</section>
+
+<br>
+
++ ⚙️ Back-end: Node.js;
++ 🔒 Data Base Management System: PostegreSQL;
++ 📝 Format languagues: HTML5;
++ 🤖 Frameworks: Express.js;
++ 🖥️ Front-end: JavaScript e Typescript;
++ 📚 Libraries: React;
++ 🎨 Style languagues: CSS3 e SASS;
++ 🔨 Tools: Node Package Manager, Visual Studio Code e Vite;
++ 💡 UI Design: Figma;
++ 🌱 Version Code Control: Git e GitHub;
+
+## ✉️ Contacts
+
++ ✉️ E-mail: harrisonlima92@gmail.com;
++ 💼 LinkedIn: @harrison-fabiano-de-lima;
