@@ -21,18 +21,18 @@
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"  title="Node.js" style="padding: 20px 30px;"/>
         </div>
         <div style="display: flex; margin: 10px; justify-content: space-between;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Express.js" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Express.js" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" title="Visual Studio Code" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma" style="padding: 20px 30px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" style="padding: 20px 30px;"/>
-            <img loading="lazy" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" width="50" height="50" title="NPM" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" title="GitLab" style="padding: 20px 30px;"/>
         </div>
         <div style="display: flex; margin: 10px; justify-content: space-between;">
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
-            <img src="https://camo.githubusercontent.com/91667172abbc3a5e37ef6083a42ae5c114668c5614c0f53472499a1e4b842d26/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f3531322f657870726573732d6a732e706e67" title="Express.js" width="50" height="50" title="SASS" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" width="50" height="50" title="NPM" style="padding: 20px 30px;"/>
         </div>
     </div>
 </section>
@@ -42,13 +42,12 @@
 + ⚙️ Back-end: Node.js;
 + 🔒 Data Base Management System: PostegreSQL;
 + 📝 Format languagues: HTML5;
-+ 🤖 Frameworks: Express.js;
 + 🖥️ Front-end: JavaScript e Typescript;
 + 📚 Libraries: React;
 + 🎨 Style languagues: CSS3 e SASS;
 + 🔨 Tools: Node Package Manager, Visual Studio Code e Vite;
 + 💡 UI Design: Figma;
-+ 🌱 Version Code Control: Git e GitHub;
++ 🌱 Version Code Control: Git, GitHub e GitLab;
 
 ## ✉️ Contacts
 
