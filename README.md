@@ -16,7 +16,7 @@
         <div style="display: flex; margin: 10px; justify-content: space-between;">  
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="Javascript" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="Typescript" style="padding: 20px 30px;"/>
-            <img loading="lazy" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="50" height="50" title="Vite" style="padding: 20px 30px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="50" height="50" title="Vite" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" style="padding: 20px 30px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"  title="Node.js" style="padding: 20px 30px;"/>
         </div>
