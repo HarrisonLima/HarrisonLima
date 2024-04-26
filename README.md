@@ -1,7 +1,7 @@
 # 📈 Hey visitors, welcome to my GitHub profile!
 
 - 💻 I'm a Software Developer in Uauh Cartões.
-- 🧠 I'm currently studying: Node, React, Typescript on Alura. <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="40" height="30"/>
+- 🧠 I'm currently studying: Node, React, Typescript.
 
 <br>
 
