@@ -1,7 +1,7 @@
 # 📈 Hey visitors, welcome to my GitHub profile!
 
 - 💻 I'm a Software Developer in Uauh Cartões.
-- 🧠 I'm currently studying: Node, React, Typescript.
+- 🧠 I'm currently studying: React, Typescript.
 
 <br>
 
@@ -41,10 +41,10 @@
 
 + ⚙️ Back-end: Node.js;
 + 🔒 Data Base Management System: PostegreSQL;
-+ 📝 Format languagues: HTML5;
++ 📝 Format languagues: HTML5 e Markdown;
 + 🖥️ Front-end: JavaScript e Typescript;
 + 📚 Libraries: React;
-+ 🎨 Style languagues: CSS3 e SASS;
++ 🎨 Style languagues: CSS3, SASS e Styled-components;
 + 🔨 Tools: Node Package Manager, Visual Studio Code e Vite;
 + 💡 UI Design: Figma;
 + 🌱 Version Code Control: Git, GitHub e GitLab;
